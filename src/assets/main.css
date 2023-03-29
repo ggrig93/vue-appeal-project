@@ -1,0 +1,17 @@
+@import './base.css';
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.title {
+  color: var(--color-gray);
+  margin-bottom: 1rem;
+  font-size: 2rem;
+}
+
+.page-wrapper {
+  width: 100%;
+  padding: 2rem 0;
+}
